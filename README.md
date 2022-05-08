@@ -1,4 +1,4 @@
-# DAVY ONE MINUTE PITCH
+# 
 
 This is a flask application that allows users to to post their pitch, and others users vote(upvote or downvote) their peeches.
 
